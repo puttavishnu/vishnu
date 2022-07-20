@@ -1,2 +1,2 @@
 # vishnu
-pubile repo for azure devops
+public repo for azure devops
